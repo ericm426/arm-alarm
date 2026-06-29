@@ -1,0 +1,6 @@
+-r requirements-base.txt
+tflite-runtime
+opencv-python-headless
+picamera2
+pygame
+RPi.GPIO
